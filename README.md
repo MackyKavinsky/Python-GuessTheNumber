@@ -1,6 +1,6 @@
 # Simple Python-GuessTheNumber
 
-The rule of this game is the player need to guess a number from 1 - 99 (which can be changed based on how the host wants; change inside the code). If the number guessed is higher or lower than the number chosen, a feedback will be return saying "The number is higher" or "The number is lower". User can guess until the user found the chosen hidden number.
+The rule of this game is the player need to guess a number from 1 - 99 (which can be changed based on how the host wants; change inside the code). If the number guessed is higher or lower than the number chosen, a feedback will be return saying "The number is higher" or "The number is lower". User can guess until the user found the chosen hidden number. The guess number is unlimited for now.
 
 ### Requirements:
 
